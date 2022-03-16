@@ -1,23 +1,20 @@
-# vue-element
+# vue-node-mongodb
 
-## Project setup
+## Project begin
 ```
-npm install
+app.js
+node app.js
 ```
 
-### Compiles and hot-reloads for development
+### Vue
 ```
+src/App.vue
 npm run serve
 ```
 
-### Compiles and minifies for production
+### MongoDB models
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+models/user.js
 ```
 
 ### Customize configuration
