@@ -16,7 +16,8 @@
     "mongodb": "^4.4.1",
     "mongoose": "^6.2.4",
     "vue": "^3.2.13",
-    "vue-router": "^4.0.13"
+    "vue-router": "^4.0.13",
+    "vue3-cookies": "^1.0.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",

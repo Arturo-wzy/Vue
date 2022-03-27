@@ -1,0 +1,40 @@
+//商品列表数据
+
+[
+    {
+        class:'IPHONE 13 PRO',
+        detail:'强的很',
+        price:'7999起',
+        img:'http://r9b2i2g45.hn-bkt.clouddn.com/IPHONE13PRO.png'
+    },
+    {
+        class:'IPAD AIR',
+        detail:'轻，靓，重量级',
+        price:'4399起',
+        img:'http://r9b2i2g45.hn-bkt.clouddn.com/IPADAIR.png'
+    },
+    {
+        class:'MAC STUDIO',
+        detail:'造梦引擎',
+        price:'14,999起',
+        img:'http://r9b2i2g45.hn-bkt.clouddn.com/MACSTUDIO.png'
+    },
+    {
+        class:'STUDIO DISPLAY',
+        detail:'眼界全开',
+        price:'11,499起',
+        img:'http://r9b2i2g45.hn-bkt.clouddn.com/STUDIODISPLAY.png'
+    },
+    {
+        class:'IPHONE SE',
+        detail:'重磅实力，轻松入手',
+        price:'3499起',
+        img:'http://r9b2i2g45.hn-bkt.clouddn.com/IPHONESE.png'
+    },
+    {
+        class:'IPHONE 13',
+        detail:'解锁超能力',
+        price:'5199起',
+        img:'http://r9b2i2g45.hn-bkt.clouddn.com/IPHONE13.png'
+    }
+]

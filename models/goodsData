@@ -1,0 +1,22 @@
+//轮播图数据
+
+[
+    {
+            "class" : "iPhone 13 Pro",
+            "detail" : "强的很",
+            "price" : "7999起",
+            "img" : "http://r9b2i2g45.hn-bkt.clouddn.com/13pro.png"
+    },
+    {
+            "class" : "iPhone SE",
+            "detail" : "重磅实力，轻松入手",
+            "price" : "3499起",
+            "img" : "http://r9b2i2g45.hn-bkt.clouddn.com/se.png"
+    },
+    {
+            "class" : "iPad Air",
+            "detail" : "轻，靓，重量级",
+            "price" : "4399起",
+            "img" : "http://r9b2i2g45.hn-bkt.clouddn.com/ipad%20air.png"
+    }
+]
